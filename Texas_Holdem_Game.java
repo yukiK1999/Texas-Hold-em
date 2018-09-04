@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Texas_Holdem_Game {
+	//Main is incomplete, still required UI, chips system, and calculating probability of winning for each player. 
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		// int player = numberOfPlayer(input);
