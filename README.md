@@ -7,4 +7,5 @@ are:
     Probability of winning (winning probability for each player's hand)
     
     Some comment is lacking due to testing purposes.
-    Some algorithm could be over complicated, due to this being a first draft, trying to make it functional.
+    Some algorithm could be over complicated or not efficient, due to future development of having 7 card Texas Holde'em
+    
